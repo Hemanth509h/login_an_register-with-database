@@ -211,7 +211,7 @@
       <h1 class="h1">Welcome</h1>
       <p>Enter your login details</p>
     </div>
-    <hr /> <!-- Horizontal rule -->
+    <hr> <!-- Horizontal rule -->
 
     <!-- Login form -->
     <form method="post" action="index.php" class="form">
